@@ -6,4 +6,4 @@ Freelance developer crafting **stunning websites & landing pages** that convert.
 `React` `TypeScript` `JavaScript` `CSS` `Supabase` `Node` `Vite` + AI-powered workflow + `SEO` `GEO`
 
 ### 💼 What I do
-I help businesses and founders go from idea to polished, high-performance web presence — fast.
+I help businesses and founders go from idea to polished, high-performance web presence — fast
